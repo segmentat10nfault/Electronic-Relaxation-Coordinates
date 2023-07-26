@@ -8,7 +8,6 @@ electronic states ($\Delta E^D$).
 If $N$ is the number of atoms in the system, we define the $3N-$dimensional S$_1 \to$ S$_0$ relaxation pathway vector $\mathbf{c}$ as:
  
 \begin{equation}
-\label{eq:PCA1}
 \mathbf{c_i} = \dfrac{\langle[x_i(t)-\overline{x_i}]\text{Sign}[-\Delta E^D(t)]\text{exp}^{-\frac{|\Delta E^D(t)|}{\alpha kT}} \rangle}{\sqrt{\langle [x_i(t)-\overline{x_i}]^2 \rangle \langle [\text{exp}^{-\frac{|\Delta E^D(t)|}{\alpha kT}}]^2} \rangle},
 \end{equation}
 
